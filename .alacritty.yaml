@@ -1,0 +1,120 @@
+# ~/.config/alacritty/alacritty.toml
+
+# ---------------------------------------------------------------------
+# IMPORTACIÓN DE TEMA
+# ---------------------------------------------------------------------
+# Descomenta y ajusta la ruta al archivo .toml del tema que quieras usar.
+# Esta ruta asume que clonaste el repositorio alacritty-theme como se indicó arriba.
+import = [
+#"~/.config/alacritty/themes/collection/themes/gruvbox_dark.toml"
+#  "~/.config/alacritty/themes/collection/themes/catppuccin_mocha.toml" # Otro ejemplo
+  "~/.config/alacritty/themes/collection/themes/dracula.toml"       # Otro ejemplo
+]
+
+# Opciones de entorno
+[env]
+TERM = "xterm-256color"
+
+# Configuración de la ventana
+[window]
+opacity = 1.0 # Ajusta según tu preferencia (0.0 transparente, 1.0 opaco)
+padding = { x = 5, y = 5 }
+decorations = "full"
+title = "Alacritty"
+columns = 80
+lines = 24
+
+# Configuración de la fuente
+[font]
+normal = { family = "xos4 Terminus", style = "Regular" }
+bold = { family = "xos4 Terminus", style = "Bold" }
+italic = { family = "xos4 Terminus", style = "Italic" }
+size = 15.0
+offset = { x = 0, y = 0 }
+glyph_offset = { x = 0, y = 0 }
+
+# ---------------------------------------------------------------------
+# COLORES DIRECTOS (Comentados si se usa un tema importado)
+# ---------------------------------------------------------------------
+# Cuando importas un tema, este debería definir todos los colores necesarios.
+# Si dejas las siguientes secciones de [colors] descomentadas, podrían
+# entrar en conflicto con el tema importado o sobreescribirlo parcialmente.
+# Es mejor dejar que el tema maneje los colores.
+
+# [colors.primary]
+# background = "#2E3440"
+# foreground = "#D8DEE9"
+#
+# [colors.cursor]
+# text = "CellBackground"
+# cursor = "#D8DEE9"
+#
+# [colors.normal]
+# black   = "#3B4252"
+# red     = "#BF616A"
+# green   = "#A3BE8C"
+# yellow  = "#EBCB8B"
+# blue    = "#81A1C1"
+# magenta = "#B48EAD"
+# cyan    = "#88C0D0"
+# white   = "#E5E9F0"
+#
+# [colors.bright]
+# black   = "#4C566A"
+# red     = "#BF616A"
+# green   = "#A3BE8C"
+# yellow  = "#EBCB8B"
+# blue    = "#81A1C1"
+# magenta = "#B48EAD"
+# cyan    = "#8FBCBB"
+# white   = "#ECEFF4"
+
+# Campana visual
+[bell]
+animation = "EaseOutExpo"
+duration = 200
+# El color de la campana a menudo es definido por el tema.
+# Si no, puedes definirlo aquí:
+color = "#D8DEE9"
+
+# Selección
+[selection]
+save_to_clipboard = true
+
+# Cursor
+[cursor]
+style = { shape = "Block", blinking = "On" }
+unfocused_hollow = true
+# El color del cursor a menudo es definido por el tema.
+
+# Desplazamiento (Scrolling)
+[scrolling]
+history = 10000
+multiplier = 3
+
+# Atajos de teclado
+[keyboard]
+bindings = [
+  { key = "V", mods = "Control|Shift", action = "Paste" },
+  { key = "C", mods = "Control|Shift", action = "Copy" },
+  { key = "Insert", mods = "Shift", action = "PasteSelection" },
+  { key = "Key0", mods = "Control", action = "ResetFontSize" },
+  { key = "Equals", mods = "Control", action = "IncreaseFontSize" },
+  { key = "Minus", mods = "Control", action = "DecrelacraseFontSize" },
+  { key = "N", mods = "Control|Shift", action = "SpawnNewInstance" }
+]
+
+# Comportamiento de Alt
+alt_sends_esc = true
+
+# Ratón
+[mouse]
+hide_when_typing = true
+
+# Recarga de configuración en vivo
+# live_config_reload = true # Comentado porque tu versión de Alacritty podría reportarlo como "unused"
+                            # o podría estar habilitado por defecto.
+
+# [debug]
+# log_level = "Warn"
+# persistent_logging = false

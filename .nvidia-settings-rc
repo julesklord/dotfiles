@@ -1,0 +1,101 @@
+#
+# /home/frecords-studio/.nvidia-settings-rc
+#
+# Configuration file for nvidia-settings - the NVIDIA Settings utility
+# Generated on Sat May 24 06:35:56 2025
+#
+
+# ConfigProperties:
+
+RcFileLocale = C
+DisplayStatusBar = Yes
+SliderTextEntries = Yes
+IncludeDisplayNameInConfigFile = Yes
+UpdateRulesOnProfileNameChange = Yes
+Timer = PowerMizer_Monitor_(GPU_0),Yes,1000
+Timer = Thermal_Monitor_(GPU_0),Yes,1000
+Timer = Memory_Used_(GPU_0),Yes,3000
+
+# Attributes:
+
+frecords-x99:0.0/SyncToVBlank=1
+frecords-x99:0.0/LogAniso=0
+frecords-x99:0.0/FSAA=0
+frecords-x99:0.0/TextureClamping=1
+frecords-x99:0.0/FXAA=1
+frecords-x99:0.0/AllowFlipping=1
+frecords-x99:0.0/FSAAAppControlled=0
+frecords-x99:0.0/LogAnisoAppControlled=1
+frecords-x99:0.0/OpenGLImageSettings=3
+frecords-x99:0.0/FSAAAppEnhanced=1
+frecords-x99:0.0/ShowGraphicsVisualIndicator=0
+frecords-x99:0[DPY:DVI-D-0]/Dithering=0
+frecords-x99:0[DPY:DVI-D-0]/DitheringMode=0
+frecords-x99:0[DPY:DVI-D-0]/DitheringDepth=0
+frecords-x99:0[DPY:DVI-D-0]/ColorSpace=0
+frecords-x99:0[DPY:DVI-D-0]/ColorRange=0
+frecords-x99:0[DPY:DVI-D-0]/SynchronousPaletteUpdates=0
+frecords-x99:0[DPY:HDMI-0]/Dithering=0
+frecords-x99:0[DPY:HDMI-0]/DitheringMode=0
+frecords-x99:0[DPY:HDMI-0]/DitheringDepth=0
+frecords-x99:0[DPY:HDMI-0]/ColorSpace=0
+frecords-x99:0[DPY:HDMI-0]/ColorRange=0
+frecords-x99:0[DPY:HDMI-0]/SynchronousPaletteUpdates=0
+frecords-x99:0[DPY:DP-0]/RedBrightness=0.000000
+frecords-x99:0[DPY:DP-0]/GreenBrightness=0.000000
+frecords-x99:0[DPY:DP-0]/BlueBrightness=0.000000
+frecords-x99:0[DPY:DP-0]/RedContrast=0.000000
+frecords-x99:0[DPY:DP-0]/GreenContrast=0.000000
+frecords-x99:0[DPY:DP-0]/BlueContrast=0.000000
+frecords-x99:0[DPY:DP-0]/RedGamma=1.000000
+frecords-x99:0[DPY:DP-0]/GreenGamma=1.000000
+frecords-x99:0[DPY:DP-0]/BlueGamma=1.000000
+frecords-x99:0[DPY:DP-0]/Dithering=1
+frecords-x99:0[DPY:DP-0]/DitheringMode=1
+frecords-x99:0[DPY:DP-0]/DitheringDepth=2
+frecords-x99:0[DPY:DP-0]/DigitalVibrance=-21
+frecords-x99:0[DPY:DP-0]/ColorSpace=0
+frecords-x99:0[DPY:DP-0]/ColorRange=0
+frecords-x99:0[DPY:DP-0]/SynchronousPaletteUpdates=0
+frecords-x99:0[DPY:DP-1]/Dithering=0
+frecords-x99:0[DPY:DP-1]/DitheringMode=0
+frecords-x99:0[DPY:DP-1]/DitheringDepth=0
+frecords-x99:0[DPY:DP-1]/ColorSpace=0
+frecords-x99:0[DPY:DP-1]/ColorRange=0
+frecords-x99:0[DPY:DP-1]/SynchronousPaletteUpdates=0
+frecords-x99:0[DPY:DP-2]/Dithering=0
+frecords-x99:0[DPY:DP-2]/DitheringMode=0
+frecords-x99:0[DPY:DP-2]/DitheringDepth=0
+frecords-x99:0[DPY:DP-2]/ColorSpace=0
+frecords-x99:0[DPY:DP-2]/ColorRange=0
+frecords-x99:0[DPY:DP-2]/SynchronousPaletteUpdates=0
+frecords-x99:0[DPY:DP-3]/Dithering=0
+frecords-x99:0[DPY:DP-3]/DitheringMode=0
+frecords-x99:0[DPY:DP-3]/DitheringDepth=0
+frecords-x99:0[DPY:DP-3]/ColorSpace=0
+frecords-x99:0[DPY:DP-3]/ColorRange=0
+frecords-x99:0[DPY:DP-3]/SynchronousPaletteUpdates=0
+frecords-x99:0[DPY:DP-4]/RedBrightness=0.000000
+frecords-x99:0[DPY:DP-4]/GreenBrightness=0.000000
+frecords-x99:0[DPY:DP-4]/BlueBrightness=0.000000
+frecords-x99:0[DPY:DP-4]/RedContrast=0.000000
+frecords-x99:0[DPY:DP-4]/GreenContrast=0.000000
+frecords-x99:0[DPY:DP-4]/BlueContrast=0.000000
+frecords-x99:0[DPY:DP-4]/RedGamma=1.000000
+frecords-x99:0[DPY:DP-4]/GreenGamma=1.000000
+frecords-x99:0[DPY:DP-4]/BlueGamma=1.000000
+frecords-x99:0[DPY:DP-4]/Dithering=0
+frecords-x99:0[DPY:DP-4]/DitheringMode=0
+frecords-x99:0[DPY:DP-4]/DitheringDepth=0
+frecords-x99:0[DPY:DP-4]/DigitalVibrance=0
+frecords-x99:0[DPY:DP-4]/ColorSpace=0
+frecords-x99:0[DPY:DP-4]/ColorRange=0
+frecords-x99:0[DPY:DP-4]/SynchronousPaletteUpdates=0
+frecords-x99:0[DPY:DP-5]/Dithering=0
+frecords-x99:0[DPY:DP-5]/DitheringMode=0
+frecords-x99:0[DPY:DP-5]/DitheringDepth=0
+frecords-x99:0[DPY:DP-5]/ColorSpace=0
+frecords-x99:0[DPY:DP-5]/ColorRange=0
+frecords-x99:0[DPY:DP-5]/SynchronousPaletteUpdates=0
+[GPU:0]/GPUPowerMizerMode=1
+[GPU:0]/GPULogoBrightness=100
