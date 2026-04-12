@@ -1,66 +1,84 @@
-# the .dotfiles 🐧
+# 🐧 the .dotfiles (Hybrid Edition) 🪟
 
-Bienvenido a la cueva del nerdo. Aqui estan mis configuraciones y otras hierbas, mas que nada es un respaldo para mis configuraciones a razon de que probablemente sufra un distrohopping por todo el año 2025.
+> "A developer's environment is their throne. This is mine."
 
-Toma lo que gustes, aca todo es libre, ya sabes, si quieres comentar, preguntar, putear o ser mi amigo, aqui esta mi correo ->  <julioglez.93@gmail.com>
+Bienvenido a la cueva del nerdo. Este es un respaldo vivo de mis configuraciones, forjado tras años de distrohopping en Linux y optimizado para la máxima productividad en Windows 11. 
 
-## 📸
+Toma lo que gustes, aca todo es libre. Si quieres comentar, preguntar o simplemente conectar:  <julioglez.93@gmail.com>
 
-AQUI ESTA LA MANTECA, LA MERLUZA, LA PROTEINA, LO RICO, LOS SCREENS.
+---
 
-*(Aquí tienes espacio para 5 screenshots. Puedes ajustar la descripción y la ruta)*
+## 🚀 El Stack Actual (Windows / Rust Dev)
 
-![Descripción Screenshot 5](scrots/scrot1.png)
-  ![Descripción Screenshot 5](scrots/scrot2.png)
-    ![Descripción Screenshot 5](scrots/scrot3.png)
-      ![Descripción Screenshot 5](scrots/scrot4.png)
+Tras mucho tiempo en Manjaro, actualmente mi entorno principal corre sobre **Windows + PowerShell 7.6**, enfocado en el desarrollo de herramientas TUI en Rust (como [poshbuddy](https://github.com/julesklord/poshbuddy)).
 
-Esta es la pila de software que da vida a mi entorno:
+### 🖥️ Core Components
+*   **Shell**: PowerShell 7.6 (con `gsync` aliases y funciones personalizadas)
+*   **Prompt**: [Oh My Posh](https://ohmyposh.dev/) (Tema: `atomic`)
+*   **Terminal**: Windows Terminal (CaskaydiaCove NF)
+*   **Editor**: VS Code / Neovim / Vim
+*   **Navegación**: [Zoxide](https://github.com/ajeetdsouza/zoxide) + [Yazi](https://github.com/sxyazi/yazi)
+*   **Gestión de Paquetes**: Scoop & Winget
 
-*   **OS**: Manjarox86_64
-*   **WM/DE**: awesomewm
-*   **Terminal**: alacritty
-*   **Shell**: zsh/oh-myfish/antigen
-*   **Editor Principal**: kate/code-oss/vim
-*   **Barra de Estado**: awesome-panel
-*   **Lanzador de Aplicaciones**: awesome-menu
-*   **Navegador Web**: falkon
-*   **Gestor de Archivos**: ranger/pcmanfm
-*   **Compositor**: picom/wayland
-*   **Notificaciones**: dunst
-*   **Tema GTK**: material-dark
-*   **Tema de Iconos**: papyrus <3
-*   **Fuentes**: Ui: FiraMono Nerd Font Term: Terminus 
-*   **Otros**: weechat, newsbeutler, speedtest, PyGemAi, yt, lsd, thefuck, 
+### 📂 Estructura del Repositorio
+*   `/powershell`: Perfiles optimizados para PS 5.1 y 7.6.
+*   `/windows`: Configuraciones de VS Code, Windows Terminal y listas de software.
+*   `/.poshthemes`: Colección completa de temas para Oh My Posh.
+*   `/.gitconfig`: Mis alias globales y configuración de identidad.
+*   `/.vim`: Configuración de Vim (Vundle, AirLine, Fugitive).
+*   `/.config`: Configuraciones de Linux (Zellij, Btop, Fontconfig).
+*   `/scripts`: Automatizaciones en Bash y Python.
 
-Si te aventuras a usar mis dotfiles (o partes de ellos):
+---
 
-⚠️: ¡Úsalos bajo tu propio riesgo! Siempre es una buena idea hacer una copia de seguridad de tus configuraciones actuales antes de reemplazarlas.
+## 📸 La Manteca (Screenshots)
 
-Recomiendo usar [GNU Stow](https://www.gnu.org/software/stow/) para gestionar los enlaces simbólicos.
+Aquí es donde se ve el trabajo duro. La estética no es negociable.
 
-## Inspiración / Agradecimientos
+![Descripción Screenshot 1](scrots/scrot1.png)
+![Descripción Screenshot 2](scrots/scrot2.png)
+![Descripción Screenshot 3](scrots/scrot3.png)
 
-*   A la comunidad de r/unixporn por la inspiración constante.
-*   A los desarrolladores de todas las herramientas maravillosas que hacen esto posible.
-*   A Linus, maldito viejo neurotico, te amo, gracias por todo tu trabajo
+---
+
+## 🛠️ Cómo Usar Mis Configs
+
+### En Windows:
+He generado listas de software para que puedas replicar mi entorno en segundos:
+1.  Instala Scoop: `irm get.scoop.sh | iex`
+2.  Importa mis apps: `cat windows/scoop_list.txt | scoop install`
+3.  Enlaza el perfil: `New-Item -ItemType SymbolicLink -Path $PROFILE -Target (Resolve-Path powershell/Microsoft.PowerShell_profile.ps1)`
+
+### En Linux:
+Recomiendo usar [GNU Stow](https://www.gnu.org/software/stow/) para gestionar los enlaces simbólicos en tu `$HOME`.
+
+---
+
+## 🕰️ El Legado (Oldies / Linux Ricing)
+
+No olvido mis raíces. Aquí guardo configuraciones de WMs que marcaron época en mi flujo de trabajo:
+
+### AwesomeWM
+![screenshot](scrots/scrot1.png)
+
+### HerbstluftWM
+![screenshot](https://i.redd.it/3u4o2hqay5ez.png)
+
+### i3-gaps
+![Screenshot](https://i.imgur.com/ujhrXu4.png)
+![Screenshot](https://i.imgur.com/vr5vtff.png)
+
+---
+
+## 🤝 Agradecimientos & Inspiración
+
+*   A la comunidad de **r/unixporn** por la inspiración constante.
+*   A **Linus Torvalds**, por darnos el núcleo de todo.
+*   A todos los devs de herramientas TUI que hacen que la terminal sea un lugar feliz.
 
 ## Licencia
 
-Estos dotfiles se comparten bajo la Licencia MIT. Siéntete libre de usarlos, modificarlos y distribuirlos.
+Estos dotfiles se comparten bajo la **Licencia MIT**. Siéntete libre de usarlos, modificarlos y distribuirlos.
 
 ---
-*Creado con ❤️ y muchas horas de configuración.*
-
-## 🕰️ Oldies(/oldies)
-
-## Herbsfluftwm
-
-![screenshot](https://i.redd.it/3u4o2hqay5ez.png)
-
-## i3
-
-![Screenshot](https://i.imgur.com/ujhrXu4.png)
-![Screenshot](https://i.imgur.com/TRMMk7H.png)
-![Screenshot](https://i.imgur.com/vr5vtff.png)
-
+*Actualizado en abril de 2026 con ❤️ y muchas horas de terminal.*
