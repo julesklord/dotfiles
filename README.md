@@ -4,7 +4,7 @@
 
 Bienvenido a la cueva del nerdo. Este es un respaldo vivo de mis configuraciones, forjado tras años de distrohopping en Linux y optimizado para la máxima productividad en Windows 11. 
 
-Toma lo que gustes, aca todo es libre. Si quieres comentar, preguntar o simplemente conectar:  <julioglez.93@gmail.com>
+Toma lo que gustes, aca todo es libre.
 
 ---
 
