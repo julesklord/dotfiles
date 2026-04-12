@@ -1,4 +1,4 @@
-# 🐧 the .dotfiles (Hybrid Edition) 🪟
+# 🐧 the .dotfiles
 
 > "A developer's environment is their throne. This is mine."
 
