@@ -1,0 +1,423 @@
+﻿
+   - 
+                                                                                                                        
+
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+                                                                                                                        
+Nombre                                            Id                                                 Versi├│n
+-----------------------------------------------------------------------------------------------------------------------
+Airwindows Consolidated                           ARP\Machine\X64\1762E8B5-648B-4581-93D8-41CCE83DEÔÇª 2025-08-24-94da083
+7-Zip 26.00 (x64)                                 7zip.7zip                                          26.00
+Ableton Live 12 Suite                             ARP\Machine\X64\Ableton Live 12 Suite-2026-03-060ÔÇª 12
+Android Studio                                    ARP\Machine\X64\Android Studio                     2025.3
+AntiCheatExpert                                   ARP\Machine\X64\AntiCheatExpert                    26.0.2601.885
+Audiolens                                         ARP\Machine\X64\Audiolens                          1.5.0
+BABY Audio - Beat Slammer version 1.2             ARP\Machine\X64\BABY Audio - Beat Slammer_is1      1.2
+BABY Audio - Magic Dice version 1.1               ARP\Machine\X64\BABY Audio - Magic Dice_is1        1.1
+BABY Audio - Magic Switch version 1.1             ARP\Machine\X64\BABY Audio - Magic Switch_is1      1.1
+BABY Audio - Pitch Drift version 1.1              ARP\Machine\X64\BABY Audio - Pitch Drift_is1       1.1
+BABY Audio - Warp version 1.0                     ARP\Machine\X64\BABY Audio - Warp_is1              1.0
+Bertom Air Shelf 1.2.9                            ARP\Machine\X64\Bertom Air Shelf_is1               1.2.9
+Bertom Denoiser Classic 3.0.11                    ARP\Machine\X64\Bertom Denoiser Classic_is1        3.0.11
+Bertom EQ Curve Analyzer 2 2.1.3                  ARP\Machine\X64\Bertom EQ Curve Analyzer 2_is1     2.1.3
+Bertom Phantom Center 2 2.0.2                     ARP\Machine\X64\Bertom Phantom Center 2_is1        2.0.2
+Body version 1.0.0                                ARP\Machine\X64\Body_is1                           1.0.0
+CPUID CPU-Z 2.19                                  CPUID.CPU-Z                                        2.19
+CPUID HWMonitor 1.63                              CPUID.HWMonitor                                    1.63
+Cassette Transport version 1.0.4                  ARP\Machine\X64\Cassette Transport_is1             1.0.4
+CrystalDiskInfo 9.8.0                             CrystalDewWorld.CrystalDiskInfo                    9.8.0
+Denuvo Anti-Cheat                                 ARP\Machine\X64\Denuvo Anti-Cheat                  6.9.0.9798
+Everything 1.4.1.1032 (x64)                       ARP\Machine\X64\Everything                         1.4.1.1032
+FabFilter Micro                                   ARP\Machine\X64\FabFilter Micro_is1                1.3.1
+FabFilter Pro-C 3                                 ARP\Machine\X64\FabFilter Pro-C 3_is1              3.0.1
+FabFilter Pro-DS                                  ARP\Machine\X64\FabFilter Pro-DS_is1               1.3.1
+FabFilter Pro-G                                   ARP\Machine\X64\FabFilter Pro-G_is1                1.4.1
+FabFilter Pro-L 2                                 ARP\Machine\X64\FabFilter Pro-L 2_is1              2.2.5
+FabFilter Pro-MB                                  ARP\Machine\X64\FabFilter Pro-MB_is1               1.3.2
+FabFilter Pro-Q 4                                 ARP\Machine\X64\FabFilter Pro-Q 4_is1              4.1.1
+FabFilter Pro-R 2                                 ARP\Machine\X64\FabFilter Pro-R 2_is1              2.0.5
+FabFilter Saturn 2                                ARP\Machine\X64\FabFilter Saturn 2_is1             2.1.2
+FabFilter Simplon                                 ARP\Machine\X64\FabFilter Simplon_is1              1.4.1
+FabFilter Timeless 3                              ARP\Machine\X64\FabFilter Timeless 3_is1           3.0.9
+FabFilter Volcano 3                               ARP\Machine\X64\FabFilter Volcano 3_is1            3.0.8
+Fairlight Audio Accelerator Utility               ARP\Machine\X64\FairlightAudioAccelerator_is1      1.0.15
+Flash version 1.0.2                               ARP\Machine\X64\Flash_is1                          1.0.2
+Git                                               ARP\Machine\X64\Git_is1                            2.53.0.2
+GNU Privacy Guard                                 GnuPG.GnuPG                                        2.5.18
+Gpg4win (5.0.2)                                   ARP\Machine\X64\Gpg4win                            5.0.2
+Groove Shaper LITE version 1.0.4                  ARP\Machine\X64\Groove Shaper LITE_is1             1.0.4
+HWiNFO┬« 64                                        REALiX.HWiNFO                                      8.44
+Icaros                                            Xanashi.Icaros                                     3.3.5.000
+ImageMagick 7.1.2-18 Q16-HDRI (64-bit) (2026-03-ÔÇª ImageMagick.ImageMagick                            7.1.2.18
+Joey Sturgis Tones Howard Benson Vocals 1.0.6     ARP\Machine\X64\Joey Sturgis Tones Howard Benson ÔÇª 1.0.6
+MJUCjr version 1.5.0.0                            ARP\Machine\X64\MJUCjr_is1                         1.5.0.0
+NeuralAmpModeler version 0.7.13                   ARP\Machine\X64\NeuralAmpModeler_is1               0.7.13
+Neutron 5 Elements                                ARP\Machine\X64\Neutron 5 Elements                 5.2.0
+Novation USB Audio Driver 2.7                     ARP\Machine\X64\Novation USB Audio Driver_is1      2.7
+Novation USB Midi 2.30.0.68                       ARP\Machine\X64\Novation USB Midi Driver_is1       2.30.0.68
+PawnIO                                            namazso.PawnIO                                     2.2.0.0
+Pedal Series                                      ARP\Machine\X64\Pedal Series_is1                   1.0.0
+PreSonus Studio One 4                             ARP\Machine\X64\PreSonus Studio One 4              4.6.2.58729
+REAPER (x64)                                      Cockos.REAPER                                      7.67
+SDRR2tube version 2.5.0.0                         ARP\Machine\X64\SDRR2tube_is1                      2.5.0.0
+SK10 version 1.0.3                                ARP\Machine\X64\SK10_is1                           1.0.3
+SnareBuzz version 2.0.1                           ARP\Machine\X64\SnareBuzz_is1                      2.0.1
+SoundFlow version 6.0.2                           ARP\Machine\X64\SoundFlow_is1                      6.0.2
+STAR WARSTM BattlefrontTM II                      ARP\Machine\X64\Steam App 1237950                  Unknown
+VTube Studio                                      ARP\Machine\X64\Steam App 1325860                  Unknown
+DELTARUNE (Chapter 1 & 2 DEMO)                    ARP\Machine\X64\Steam App 1690940                  Unknown
+THE FINALS                                        ARP\Machine\X64\Steam App 2073850                  Unknown
+Delta Force                                       ARP\Machine\X64\Steam App 2507950                  Unknown
+Wallpaper Engine                                  ARP\Machine\X64\Steam App 431960                   Unknown
+PUBG: BATTLEGROUNDS                               ARP\Machine\X64\Steam App 578080                   Unknown
+TDR Kotelnikov version 1.6.5                      ARP\Machine\X64\TDR Kotelnikov_is1                 1.6.5
+TDR Molotok version 1.0.6                         ARP\Machine\X64\TDR Molotok_is1                    1.0.6
+TDR Nova version 2.2.1                            ARP\Machine\X64\TDR Nova_is1                       2.2.1
+TDR VOS SlickEQ version 1.3.9                     ARP\Machine\X64\TDR VOS SlickEQ_is1                1.3.9
+TEAM R2R DVREMU2 Manager                          ARP\Machine\X64\TEAM R2R DVREMU2 Manager_is1       1.0.0
+Trackspacer version 2.5.10                        ARP\Machine\X64\Trackspacer_is1                    2.5.10
+UJAM VOXCRAFT                                     ARP\Machine\X64\UJAM VOXCRAFT_is1                  1.0.0
+Universal Control                                 PreSonus.UniversalControl                          3.6.4.87069
+VBCABLE, The Virtual Audio Cable                  ARP\Machine\X64\VB:VBCABLE {87459874-1236-4469}    Unknown
+VLC media player                                  VideoLAN.VLC                                       3.0.23
+Vinyl                                             ARP\Machine\X64\Vinyl                              1.13.0
+iZotope Vocal Doubler                             ARP\Machine\X64\Vocal Doubler                      1.4.0
+Voxengo AnSpec                                    ARP\Machine\X64\Voxengo AnSpec_is1                 1.9
+Voxengo Beeper                                    ARP\Machine\X64\Voxengo Beeper_is1                 2.13
+Voxengo Boogex                                    ARP\Machine\X64\Voxengo Boogex_is1                 3.8
+Voxengo Correlometer                              ARP\Machine\X64\Voxengo Correlometer_is1           1.9
+Voxengo MSED                                      ARP\Machine\X64\Voxengo MSED_is1                   3.12
+Voxengo OldSkoolVerb                              ARP\Machine\X64\Voxengo OldSkoolVerb_is1           2.13
+Voxengo Overtone GEQ                              ARP\Machine\X64\Voxengo Overtone GEQ_is1           1.18
+Voxengo SPAN                                      ARP\Machine\X64\Voxengo SPAN_is1                   3.23
+Voxengo Stereo Touch                              ARP\Machine\X64\Voxengo Stereo Touch_is1           2.19
+Voxengo Tempo Delay                               ARP\Machine\X64\Voxengo Tempo Delay_is1            2.8
+Voxengo Tube Amp                                  ARP\Machine\X64\Voxengo Tube Amp_is1               2.16
+Winaero Tweaker                                   winaero.tweaker                                    1.65.0.0
+WizTree v4.31                                     AntibodySoftware.WizTree                           4.31
+ZL Equalizer 2 version 1.1.0                      ARP\Machine\X64\ZL Equalizer 2_is1                 1.1.0
+Zen Browser (x64 en-US)                           Zen-Team.Zen-Browser                               1.19.7b
+UA Connect 1.9.1                                  ARP\Machine\X64\c62e79ae-2230-5c20-9316-dd448d27dÔÇª 1.9.1
+MPC Beats 2.14.0                                  ARP\Machine\X64\com.akaipro.mpc.beats_is1          2.14.0
+dupeGuru 4.3.1                                    DupeGuru.DupeGuru                                  4.3.1
+Auto-Tune Central 2.0.1                           ARP\Machine\X64\ec10fba4-7c46-5d85-ba40-dee4e1a22ÔÇª 2.0.1
+iZotope Meter Tap 3                               ARP\Machine\X64\iZotope Meter Tap 3_is1            1.0.4
+iZotope Ozone 12 Advanced                         ARP\Machine\X64\iZotope Ozone 12 Advanced_is1      12.1.0
+Movement                                          ARP\Machine\X64\output_Movement                    1.2.1.268
+Auto-Tune EFX+                                    ARP\Machine\X64\{0565E12F-8C6F-402E-A30E-36722D34ÔÇª 10.6.0.80
+Auto-Tune Pro                                     ARP\Machine\X64\{05A55C7E-026A-422B-8D73-156E51F6ÔÇª 11.6.0.2336
+Auto-Tune SoundSoap                               ARP\Machine\X64\{083F6CC4-B1AB-4CA1-9A4D-8269D78BÔÇª 6.6.0.89
+TAL-Vocoder-2 (CLAP 64bit)                        ARP\Machine\X64\{108DD529-9A19-476B-98B2-F621BFCAÔÇª 1.0.0
+Auto-Tune Slice                                   ARP\Machine\X64\{182BD96E-B52B-4767-878F-52BE4E94ÔÇª 1.6.0.67
+PowerShell 7-x64                                  Microsoft.PowerShell                               7.6.0.0
+PowerShell                                        Microsoft.PowerShell                               7.6.0.0
+PowerShell 7.5.4.0-x86                            Microsoft.PowerShell                               7.5.4.0
+PowerShell 7.4.13.0-x64                           Microsoft.PowerShell                               7.4.13.0
+Node.js                                           OpenJS.NodeJS.LTS                                  24.14.1
+Microsoft Visual C++ 2010  x64 Redistributable -ÔÇª Microsoft.VCRedist.2010.x64                        10.0.40219
+Microsoft Update Health Tools                     ARP\Machine\X64\{1FC1A6C2-576E-489A-9B4A-92D21F54ÔÇª 3.74.0.0
+GitHub CLI                                        GitHub.cli                                         2.89.0
+Harmony Engine                                    ARP\Machine\X64\{23DC4607-15CF-46E4-9806-E0EDBB85ÔÇª 4.6.1.171
+Vocal De-Esser                                    ARP\Machine\X64\{27136CAD-1394-46E2-8BD6-BCA75BEDÔÇª 1.6.0.968
+Auto-Tune Vocal EQ                                ARP\Machine\X64\{30A1BE58-4338-4D0C-97F1-F2EB929FÔÇª 1.6.0.68
+Articulator                                       ARP\Machine\X64\{359841A0-66C7-4340-9608-9EDDF0C9ÔÇª 4.6.0.83
+Goodhertz Plugins version 3.13.2                  ARP\Machine\X64\{367f01d6-fd54-5c56-ade7-e0e680a0ÔÇª 3.13.2
+Windows Subsystem for Linux Update                ARP\Machine\X64\{36EF257E-21D5-44F7-8451-07923A8CÔÇª 5.10.16
+TAL-Reverb-4 (VST3 64bit)                         ARP\Machine\X64\{382641C3-2836-4B91-B906-772E21F4ÔÇª 1.0.0
+Mic Mod                                           ARP\Machine\X64\{3B7C31DD-B88C-4D23-9A5F-B51646C2ÔÇª 4.6.0.89
+dpMeter5 5.3.7                                    ARP\Machine\X64\{3E380088-AAD5-4A52-9C99-98F1F639ÔÇª 5.3.7
+Ableton USB Audio Driver v5.72.0                  ARP\Machine\X64\{4652E628-8DBC-4BFD-AA78-E40AD775ÔÇª 5.72.0
+neofetch-win                                      nepnep.neofetch-win                                1.3.1
+Go Programming Language amd64 go1.26.1            GoLang.Go                                          1.26.1
+VMware Workstation                                ARP\Machine\X64\{572A0073-40AE-4866-8138-AE60C3D9ÔÇª 25.0.1
+Antares Central                                   ARP\Machine\X64\{5D992B34-D15F-45E0-9697-E402C516ÔÇª 1.9.3
+Antelope Launcher                                 ARP\Machine\X64\{5DB24E0F-0409-4BB7-A541-ACE814C4ÔÇª 3.3.0
+Microsoft Visual C++ 2008 Redistributable - x64 ÔÇª Microsoft.VCRedist.2008.x64                        9.0.30729.6161
+Auto-Key                                          ARP\Machine\X64\{643BEC3A-776B-4826-9525-642E1136ÔÇª 2.6.0.84
+TAL-Reverb-4 (CLAP 64bit)                         ARP\Machine\X64\{6A608AF7-2F48-4E87-A048-E5A5E42CÔÇª 1.0.0
+Google Drive                                      Google.GoogleDrive                                 123.0.1.0
+Cantabile 4                                       ARP\Machine\X64\{6DCCA47C-8FC3-4EF8-9ACE-E66939D6ÔÇª 4.0
+DaVinci Resolve Control Panels                    ARP\Machine\X64\{6DF13AB8-1697-46A2-8017-F68D860FÔÇª 2.3.4.0
+Bonjour                                           Apple.Bonjour                                      3.0.0.10
+Microsoft Visual Studio Installer                 ARP\Machine\X64\{6F320B93-EE3C-4826-85E0-ADF79F8DÔÇª 4.4.38.63497
+TAL-Vocoder-2 (VST3 64bit)                        ARP\Machine\X64\{71D80291-2BCA-406A-BE0D-FF30E79FÔÇª 1.0.0
+Vocal Reverb                                      ARP\Machine\X64\{75EBF867-E580-4A96-851A-64A74FCBÔÇª 1.6.0.109
+Auto-Tune Vocal Compressor                        ARP\Machine\X64\{79663450-B5D0-4DC3-83E2-8AE1CBECÔÇª 1.6.0.98
+Plugin Alliance Installation Manager              ARP\Machine\X64\{7F307B5B-D078-4428-AAF8-E3988659ÔÇª 1.4.0
+Duo                                               ARP\Machine\X64\{7FB88C5A-9B2F-4452-BE14-940649DEÔÇª 4.6.0.118
+Tauon version 9.0.0                               Taiko2k.TauonMusicBox                              9.0.0
+Throat                                            ARP\Machine\X64\{8B5CA018-702D-438E-AEC3-A8A8C9E5ÔÇª 4.6.0.69
+Auto-Tune Hybrid                                  ARP\Machine\X64\{8DCFC179-36E9-4381-B84D-3FC7051DÔÇª 9.6.0.205
+BEHRINGER UMC Series USB Audio Driver v5.72.0     ARP\Machine\X64\{8E806B6F-973A-4D9C-B0FA-48239408ÔÇª 5.72.0
+Metamorph                                         ARP\Machine\X64\{91726BF2-4A84-452D-8233-EA390419ÔÇª 1.1.1.852
+PowerToys (Preview) x64                           Microsoft.PowerToys                                0.98.1
+mvMeter2 2.7.0                                    ARP\Machine\X64\{97D23C74-E340-4E1E-8306-184BC7FBÔÇª 2.7.0
+LibreOffice 26.2.1.2                              TheDocumentFoundation.LibreOffice                  26.2.1.2
+Aspire                                            ARP\Machine\X64\{A5678CE7-22CB-469A-996D-1A691BA6ÔÇª 4.6.0.130
+NVIDIA Controlador de gr├íficos 582.28             ARP\Machine\X64\{B2FE1952-0186-46C3-BAEC-A80AA35AÔÇª 582.28
+NVIDIA App 11.0.5.420                             ARP\Machine\X64\{B2FE1952-0186-46C3-BAEC-A80AA35AÔÇª 11.0.5.420
+NVIDIA Software del sistema PhysX 9.23.1019       Nvidia.PhysX                                       9.23.1019
+NVIDIA FrameView SDK 1.5.11504.36206172           ARP\Machine\X64\{B2FE1952-0186-46C3-BAEC-A80AA35AÔÇª 1.5.11504.36206172
+NVIDIA Controlador de audio HD 1.4.5.0            ARP\Machine\X64\{B2FE1952-0186-46C3-BAEC-A80AA35AÔÇª 1.4.5.0
+Subsistema de Windows para Linux                  Microsoft.WSL                                      2.6.3.0
+Windows Subsystem for Linux                       Microsoft.WSL                                      Unknown
+Overloud TH-U                                     ARP\Machine\X64\{B7B70E5E-3373-4799-B37F-06E603B0ÔÇª 2.0.6
+Update for x64-based Windows Systems (KB5001716)  ARP\Machine\X64\{B8D93870-98D1-4980-AFCA-E26563CDÔÇª 8.94.0.0
+AutoTune                                          ARP\Machine\X64\{B8E32747-6B1D-4CCA-BA13-1383D805ÔÇª 1.1.0.1244
+MPluginManager versi├│n 02.18                      ARP\Machine\X64\{C1AF678B-36F6-48F3-964D-41610AACÔÇª 02.18
+Warm                                              ARP\Machine\X64\{C5F78D38-6B93-4DBE-BED6-4756F3D9ÔÇª 4.6.0.63
+GNU Midnight Commander version 4.8.33 (build: 20ÔÇª GNU.MidnightCommander                              4.8.33.236
+Mutator                                           ARP\Machine\X64\{CD331F64-BA2D-4FDA-BDF8-DC53DBA7ÔÇª 4.6.0.96
+Auto-Tune Vocodist                                ARP\Machine\X64\{D41BE951-E96B-407A-B4B6-7AE3F91AÔÇª 1.6.0.98
+Choir                                             ARP\Machine\X64\{D5046A85-1B4B-4645-A963-41410601ÔÇª 4.6.0.135
+ISOL8 2.8.1                                       ARP\Machine\X64\{D5D1DDC7-3783-42BA-B1F6-3BCC3402ÔÇª 2.8.1
+DaVinci Resolve                                   ARP\Machine\X64\{DAAB831A-1B74-4F81-92E9-654EA26FÔÇª 20.3.20009
+Punch                                             ARP\Machine\X64\{DDEDC241-8628-4F8F-9C27-8507B25BÔÇª 4.6.0.54
+Microsoft GameInput                               Microsoft.GameInput                                3.3.182.0
+DaVinci Resolve Renderer                          ARP\Machine\X64\{F20CA7FC-E7C5-4130-AD30-314AA5B3ÔÇª 20.3.20009
+Vocal Prep                                        ARP\Machine\X64\{FA70F2CA-A657-48E2-995F-ED246F29ÔÇª 1.1.0
+First AIR Effects                                 ARP\Machine\X64\{FB2E34B9-90BF-44E1-BC1D-9AE1AC81ÔÇª 18.8.1.1448
+Blackmagic RAW Common Components                  ARP\Machine\X64\{FCDBA071-A602-43E6-BFD4-4A6AC43DÔÇª 5.1
+Waves Central                                     WavesAudio.WavesCentral                            16.5.7
+Microsoft Visual C++ 2005 Redistributable (x64)   ARP\Machine\X64\{ad8a2fa1-06e7-4b0d-927d-6e54b3d3ÔÇª 8.0.61000
+Visual Studio Build Tools 2026                    Microsoft.VisualStudio.BuildTools                  18.4.3
+ASIO4ALL                                          MichaelTippach.ASIO4ALL                            2.18
+Akai F9 Instruments Beats Edition                 ARP\Machine\X86\Akai F9 Instruments Beats EditionÔÇª Unknown
+Akai MPC Beats ADSR LoFi Producer Collection      ARP\Machine\X86\Akai MPC Beats ADSR LoFi ProducerÔÇª Unknown
+Akai MPC Beats LANIAKEA SOUNDS TrapSoul and LoFiÔÇª ARP\Machine\X86\Akai MPC Beats LANIAKEA SOUNDS TrÔÇª Unknown
+Akai MPC Beats MSX Soulful Experience Expansion   ARP\Machine\X86\Akai MPC Beats MSX Soulful ExperiÔÇª Unknown
+Akai MPC Beats Producer Kits                      ARP\Machine\X86\Akai MPC Beats Producer Kits_is1   Unknown
+Aquarius                                          ARP\Machine\X86\Aquarius                           3.0.109
+ChordAXE PT                                       ARP\Machine\X86\ChordAXE PT_is1                    1.0.29
+DownloadHelper CoApp                              ACLAP.DownloadHelperCoApp                          2.0.19.0
+EA SPORTS FIFA 23                                 ARP\Machine\X86\EA SPORTS FIFA 23_is1              Unknown
+Echo1                                             ARP\Machine\X86\Echo1_is1                          1.0.0
+Extreme Picture Finder 3.69.2                     ARP\Machine\X86\Extreme Picture Finder_is1         3.69.2
+Extreme Thumbnail Generator 2.3.2                 ARP\Machine\X86\Extreme Thumbnail Generator_is1    2.3.2
+FL Cloud Plugins version 1.9.7                    ARP\Machine\X86\FL Cloud Plugins_is1               1.9.7
+FL Studio 2025                                    ARP\Machine\X86\FL Studio 2025                     25.2.4.5242
+FL Studio ASIO                                    ARP\Machine\X86\FL Studio ASIO                     Unknown
+Google Chrome                                     Google.Chrome.EXE                                  146.0.7680.180
+Google Cloud SDK                                  Google.CloudSDK                                    Unknown
+Google Cloud SDK                                  Google.CloudSDK                                    Unknown
+HandBrake 1.11.1                                  HandBrake.HandBrake                                1.11.1
+PACE License Support Win64                        ARP\Machine\X86\InstallShield_{CA4F283D-98FF-4e6aÔÇª 5.10.4.4699
+K-Lite Mega Codec Pack 19.6.6                     CodecGuide.K-LiteCodecPack.Mega                    19.6.6
+MediaHuman Audio Converter 2.3.6                  MediaHuman.AudioConverter                          2.3.6
+Akai Professional MPK Mini MkII Editor            ARP\Machine\X86\MPKminiMkIIEditor                  Unknown
+MediaHuman Lyrics Finder versi├│n 1.7              MediaHuman.LyricsFinder                            1.7
+MediaHuman YouTube Downloader 3.9.18              MediaHuman.YouTubeDownloader                       3.9.18
+Microsoft Edge                                    Microsoft.Edge                                     147.0.3912.60
+MusicBrainz Picard                                MusicBrainz.Picard                                 2.13.3
+Native Instruments NTKDaemon                      ARP\Machine\X86\Native Instruments NTKDaemon       1.29.0.0
+OBS Studio                                        OBSProject.OBSStudio                               32.0.4
+OpenAL                                            CreativeTechnology.OpenAL                          Unknown
+KirchhoffEQ version 1.7.1                         ARP\Machine\X86\PA_TBTECH Kirchhoff-EQ_Programs_iÔÇª 1.7.1
+PluginDoctor - DDMF                               ARP\Machine\X86\PluginDoctor                       Unknown
+Product Portal                                    iZotope.ProductPortal                              Unknown
+QMPlay2                                           QMPlay2.QMPlay2                                    25.09.11
+Rainmeter                                         Rainmeter.Rainmeter                                4.5.23
+ReMOTE ZeRO SL Editor                             ARP\Machine\X86\ReMOTE ZeRO SL Editor_is1          Unknown
+Rockstar Games Launcher                           RockstarGames.Launcher                             1.0.105.2733
+Rockstar Games SDK                                ARP\Machine\X86\Rockstar Games Social Club         2.4.0.146
+Steam                                             Valve.Steam                                        2.10.91.91
+TATAT version 1.4.0                               ARP\Machine\X86\TATAT_is1                          1.4.0
+Ubisoft Connect                                   Ubisoft.Connect                                    170.1.0.13122
+Far Cry 3 Blood Dragon                            ARP\Machine\X86\Uplay Install 205                  Unknown
+Assassin's Creed III                              ARP\Machine\X86\Uplay Install 54                   Unknown
+Yandex (All Users)                                Yandex.Browser                                     26.3.3.862
+mTube 2.9.12                                      MediaHuman.mTube                                   2.9.12
+qBittorrent                                       ARP\Machine\X86\qBittorrent                        5.1.4
+Microsoft Visual C++ 2013 Redistributable (x64) ÔÇª Microsoft.VCRedist.2013.x64                        12.0.40664.0
+Microsoft Visual C++ 2013 Redistributable (x64) ÔÇª Microsoft.VCRedist.2013.x64                        12.0.30501.0
+Microsoft Windows Desktop Runtime - 6.0.36 (x64)  Microsoft.DotNet.DesktopRuntime.6                  6.0.36
+Microsoft Visual C++ v14 Redistributable (x86) -ÔÇª Microsoft.VCRedist.2015+.x86                       14.50.35719.0
+Windows SDK AddOn                                 ARP\Machine\X86\{13D2A7A2-1B42-4C03-8F0F-69799125ÔÇª 10.1.0.0
+ReArtist Pro 2025                                 ARP\Machine\X86\{246C9E85-9D7A-4CB9-88BA-8E86E8B9ÔÇª 2025
+Microsoft Visual C++ 2012 Redistributable (x86) ÔÇª Microsoft.VCRedist.2012.x86                        11.0.61030.0
+Microsoft .NET SDK 7.0.410 (x64)                  Microsoft.DotNet.SDK.7                             7.0.410
+ValhallaSpaceModulator version 1.1.6v3            ARP\Machine\X86\{424F3232-965A-4D12-BDD0-EF33B67DÔÇª 1.1.6v3
+K500-B61W Keyboard                                ARP\Machine\X86\{522B5981-9BC6-4CDE-9DFB-439F49FDÔÇª 1.6.7
+Microsoft Windows Desktop Runtime - 8.0.25 (x64)  Microsoft.DotNet.DesktopRuntime.8.x64              8.0.25
+ValhallaFreqEcho version 1.2.0                    ARP\Machine\X86\{701F5756-0DA6-43F1-B7EB-64656A02ÔÇª 1.2.0
+Microsoft Visual C++ 2005 Redistributable         Microsoft.VCRedist.2005.x86                        8.0.61001
+Microsoft Visual C++ 2005 Redistributable         Microsoft.VCRedist.2005.x86                        8.0.59193
+Microsoft Visual C++ 2005 Redistributable         Microsoft.VCRedist.2005.x86                        8.0.50727.42
+K500-B61 Keyboard                                 ARP\Machine\X86\{742EE8DD-4343-4645-A0BC-7B6B9CE1ÔÇª 1.6.7
+ReArtist Analog FX Pack                           ARP\Machine\X86\{7D866347-34A0-4131-8250-573265D3ÔÇª 2025
+ReArtist Digital FX Pack                          ARP\Machine\X86\{7E63F7BF-0112-4CC8-A537-BF311A1EÔÇª 2025
+ValhallaSupermassive version 5.0.0                ARP\Machine\X86\{83D52E63-9A59-40A1-9117-99A257CBÔÇª 5.0.0
+Epic Online Services                              ARP\Machine\X86\{8CD570F8-C05E-4B41-8EAB-24329D11ÔÇª 4.0.1
+STAR WARSTM BattlefrontTM II                      ARP\Machine\X86\{8a882ce0-0c0b-4eb2-850c-28ebadabÔÇª Unknown
+Microsoft Visual C++ v14 Redistributable (x64) -ÔÇª Microsoft.VCRedist.2015+.x64                       14.50.35719.0
+Velvet                                            ARP\Machine\X86\{9400c5ae-2774-4730-ad16-8db83bb6ÔÇª 2.2.0.2676
+Microsoft Visual C++ 2008 Redistributable - x86 ÔÇª ARP\Machine\X86\{9A25302D-30C0-39D9-BD6F-21E6EC16ÔÇª 9.0.30729
+Microsoft Visual C++ 2008 Redistributable - x86 ÔÇª Microsoft.VCRedist.2008.x86                        9.0.30729.6161
+Microsoft Visual C++ 2013 Redistributable (x86) ÔÇª Microsoft.VCRedist.2013.x86                        12.0.40664.0
+Microsoft Visual C++ 2013 Redistributable (x86) ÔÇª Microsoft.VCRedist.2013.x86                        12.0.30501.0
+A1TriggerGate version 1.44                        ARP\Machine\X86\{B069846D-66D2-4A30-BB1C-0ADAA50EÔÇª 1.44
+VIP 3.1.0.350                                     ARP\Machine\X86\{B3FC246F-87F6-4476-9E79-F14FB5A1ÔÇª Unknown
+Rapture3D 2.4.11 Game                             ARP\Machine\X86\{D2FCA41E-AC01-4DCD-B3A7-DC9E3236ÔÇª Unknown
+Microsoft Visual C++ 2010  x86 Redistributable -ÔÇª Microsoft.VCRedist.2010.x86                        10.0.40219
+Realtek High Definition Audio Driver              ARP\Machine\X86\{F132AF7F-7BCA-4EDE-8A7C-958108FEÔÇª 6.0.9273.1
+Wave Breaker version 2.1.0                        ARP\Machine\X86\{F7EB1C3C-9A1F-45F5-A6BE-83D5D1FBÔÇª 2.1.0
+Microsoft Visual C++ 2008 Redistributable - x86 ÔÇª ARP\Machine\X86\{FF66E9F6-83E7-3A3E-AF14-8DE9A809ÔÇª 9.0.21022
+Windows Software Development Kit - Windows 10.0.ÔÇª Microsoft.WindowsSDK.10.0.26100                    10.0.26100.7705
+Human Lite Plugin                                 ARP\Machine\X86\{c1e0c261-b592-463d-b678-652ac183ÔÇª 1.0.6.524
+Microsoft Visual C++ 2012 Redistributable (x64) ÔÇª Microsoft.VCRedist.2012.x64                        11.0.61030.0
+Google AI Studio                                  ARP\User\X64\1539257ab22bb2f2246a8c3f1ecc2e5d      1.0
+Producer.ai | AI Music Agent                      ARP\User\X64\1cb9ebd816032adc8a9b935dc5871668      1.0
+Canva                                             ARP\User\X64\3d0ba22d-e02b-5c6d-93a1-4e2a9af9c1f2  1.121.0
+Instagram                                         ARP\User\X64\5d264121f016fc590ebb03c2fb2e7c98      1.0
+YouTube                                           ARP\User\X64\8be9c2447d40d97c03f6f29f0d5c7060      1.0
+Claude Code                                       Anthropic.ClaudeCode                               2.1.81
+Docker CLI                                        Docker.DockerCLI                                   29.3.1
+fastfetch                                         Fastfetch-cli.Fastfetch                            2.61.0
+GNU Nano                                          GNU.Nano                                           2.7.5
+GitHub Desktop                                    GitHub.GitHubDesktop                               3.5.7
+FFmpeg                                            Gyan.FFmpeg                                        8.1
+lazygit                                           JesseDuffield.lazygit                              0.61.0
+Rustup: the Rust toolchain installer              Rustlang.Rustup                                    1.29.0
+opencode                                          SST.opencode                                       1.3.16
+NeoHtop                                           abdenasser.NeoHtop                                 1.2.0
+Microsoft Word                                    ARP\User\X64\adc60e2ed272992388f5917b66a9ee07      1.0
+zoxide                                            ajeetdsouza.zoxide                                 0.9.9
+btop4win                                          aristocratos.btop4win                              1.0.5
+uv                                                astral-sh.uv                                       0.11.3
+Obsidian                                          Obsidian.Obsidian                                  1.12.7
+Native Access 3.23.0                              ARP\User\X64\c410b7d2-8fce-53b3-8332-e98b6e89a16a  3.23.0
+Google One                                        ARP\User\X64\c71e351cd23810c1603756c2b7873dbf      1.0
+vhs                                               charmbracelet.vhs                                  0.11.0
+Facebook                                          ARP\User\X64\f550c0b5fb1b54fce70813849c35c3f8      1.0
+YouTube                                           ARP\User\X64\fe036023835d371911e33d44de1b3a46      1.0
+Python 3.14.3                                     Python.Python.3.13                                 > 3.13.12
+Python 3.13.12 (64-bit)                           Python.Python.3.13                                 3.13.12
+Yazi                                              sxyazi.yazi                                        26.1.22
+wt                                                timvw.wt                                           0.1.28
+ttyd                                              tsl0922.ttyd                                       1.7.7
+Element                                           ARP\User\X64\{20cfa6b4-958a-4bc5-a43e-a7892a91ae5ÔÇª 1.0.0
+Telegram Desktop                                  Telegram.TelegramDesktop                           6.7.5
+Windsurf (User)                                   Codeium.Windsurf                                   1.9600.41
+Microsoft Visual Studio Code (User)               Microsoft.VisualStudioCode                         1.115.0
+Antigravity (User)                                Google.Antigravity                                 1.22.2
+Python 3.14.3 (64-bit)                            Python.Python.3.14                                 3.14.3
+Project Brew                                      MSIX\11103Nerbler09.ProjectBrew_1.0.1.0_neutral__ÔÇª 1.0.1.0
+WindowTop                                         MSIX\25571BiGilSoft.WindowTop_5.31.6.0_x64__gejtaÔÇª 5.31.6.0
+Snippet Shelf                                     MSIX\41747ArnoKlenke.SnippetShelf_0.7.6.0_x64__1wÔÇª 0.7.6.0
+WhatsApp                                          MSIX\5319275A.WhatsAppDesktop_2.2611.102.0_x64__cÔÇª 2.2611.102.0
+Centro de comando de gr├íficos Intel┬«              MSIX\AppUp.IntelGraphicsExperience_1.100.5688.0_xÔÇª 1.100.5688.0
+Affinity                                          Canva.Affinity                                     3.1.0.4231
+Claude                                            Anthropic.Claude                                   1.1617.0.0
+Controles multimedia para la paleta de comandos   JiriPolasek.MediaControlsforCommandPalette         0.12.0.0
+Recent Files for Command Palette                  JiriPolasek.RecentFilesforCommandPalette           0.8.0.0
+Microsoft Bing                                    MSIX\Microsoft.BingSearch_1.1.40.0_x64__8wekyb3d8ÔÇª 1.1.40.0
+MSN El tiempo                                     MSIX\Microsoft.BingWeather_4.54.63040.0_x64__8wekÔÇª 4.54.63040.0
+Paleta de comandos                                MSIX\Microsoft.CommandPalette_0.9.10852.0_x64__8wÔÇª 0.9.10852.0
+Instalador de aplicaci├│n                          Microsoft.AppInstaller                             1.29.30.0
+DirectX                                           Microsoft.DirectX                                  9.29.1974.0
+DirectX                                           Microsoft.DirectX                                  9.29.1974.0
+Xbox                                              MSIX\Microsoft.GamingApp_2604.1000.42.0_x64__8wekÔÇª 2604.1000.42.0
+Servicios de juegos                               MSIX\Microsoft.GamingServices_35.112.10001.0_x64_ÔÇª 35.112.10001.0
+Get Help                                          MSIX\Microsoft.GetHelp_10.2409.40781.0_x64__8wekyÔÇª 10.2409.40781.0
+Sugerencias de Microsoft                          MSIX\Microsoft.Getstarted_10.2312.1.0_x64__8wekybÔÇª 10.2312.1.0
+Extensi├│n de im├ígenes HEIF                        MSIX\Microsoft.HEIFImageExtension_1.2.30.0_x64__8ÔÇª 1.2.30.0
+HEVC Video Extensions                             MSIX\Microsoft.HEVCVideoExtensions_2.4.42.0_x64__ÔÇª 2.4.42.0
+Paquete de experiencia local en espa├▒ol (M├®xico)  MSIX\Microsoft.LanguageExperiencePackes-MX_19041.ÔÇª 19041.62.224.0
+Paint 3D                                          MSIX\Microsoft.MSPaint_6.1907.29027.0_x64__8wekybÔÇª 6.1907.29027.0
+Visor 3D                                          MSIX\Microsoft.Microsoft3DViewer_7.2602.8012.0_x6ÔÇª 7.2602.8012.0
+Microsoft Edge                                    MSIX\Microsoft.MicrosoftEdge.Stable_147.0.3912.37ÔÇª 147.0.3912.37
+Microsoft 365 Copilot                             MSIX\Microsoft.MicrosoftOfficeHub_19.2604.38251.0ÔÇª 19.2604.38251.0
+Solitaire & Casual Games                          MSIX\Microsoft.MicrosoftSolitaireCollection_4.25.ÔÇª 4.25.3102.0
+Notas r├ípidas de Microsoft                        MSIX\Microsoft.MicrosoftStickyNotes_6.1.4.0_x64__ÔÇª 6.1.4.0
+Microsoft .Net Native Framework Package 1.7       MSIX\Microsoft.NET.Native.Framework.1.7_1.7.27413ÔÇª 1.7.27413.0
+Microsoft .Net Native Framework Package 1.7       MSIX\Microsoft.NET.Native.Framework.1.7_1.7.27413ÔÇª 1.7.27413.0
+Microsoft .Net Native Framework Package 2.2       MSIX\Microsoft.NET.Native.Framework.2.2_2.2.29512ÔÇª 2.2.29512.0
+Microsoft .Net Native Framework Package 2.2       MSIX\Microsoft.NET.Native.Framework.2.2_2.2.29512ÔÇª 2.2.29512.0
+Microsoft .Net Native Runtime Package 1.7         MSIX\Microsoft.NET.Native.Runtime.1.7_1.7.27422.0ÔÇª 1.7.27422.0
+Microsoft .Net Native Runtime Package 1.7         MSIX\Microsoft.NET.Native.Runtime.1.7_1.7.27422.0ÔÇª 1.7.27422.0
+Microsoft .Net Native Runtime Package 2.2         MSIX\Microsoft.NET.Native.Runtime.2.2_2.2.28604.0ÔÇª 2.2.28604.0
+Microsoft .Net Native Runtime Package 2.2         MSIX\Microsoft.NET.Native.Runtime.2.2_2.2.28604.0ÔÇª 2.2.28604.0
+OneNote for Windows 10                            MSIX\Microsoft.Office.OneNote_16001.14326.22594.0ÔÇª 16001.14326.22594ÔÇª
+Outlook for Windows                               MSIX\Microsoft.OutlookForWindows_1.2026.325.600_xÔÇª 1.2026.325.600
+Contactos de Microsoft                            MSIX\Microsoft.People_10.2202.100.0_x64__8wekyb3dÔÇª 10.2202.100.0
+Recorte y anotaci├│n                               MSIX\Microsoft.ScreenSketch_10.2008.3001.0_x64__8ÔÇª 10.2008.3001.0
+Host de la experiencia de Store                   MSIX\Microsoft.StorePurchaseApp_22601.1401.7.0_x6ÔÇª 22601.1401.7.0
+Microsoft.UI.Xaml.2.0                             MSIX\Microsoft.UI.Xaml.2.0_2.1810.18004.0_x64__8wÔÇª 2.1810.18004.0
+Microsoft.UI.Xaml.2.3                             MSIX\Microsoft.UI.Xaml.2.3_2.32002.13001.0_x64__8ÔÇª 2.32002.13001.0
+Microsoft.UI.Xaml.2.3                             MSIX\Microsoft.UI.Xaml.2.3_2.32002.13001.0_x86__8ÔÇª 2.32002.13001.0
+Microsoft.UI.Xaml.2.4                             MSIX\Microsoft.UI.Xaml.2.4_2.42007.9001.0_x64__8wÔÇª 2.42007.9001.0
+Microsoft.UI.Xaml.2.4                             MSIX\Microsoft.UI.Xaml.2.4_2.42007.9001.0_x86__8wÔÇª 2.42007.9001.0
+Microsoft.UI.Xaml.2.7                             Microsoft.UI.Xaml.2.7                              7.2409.9001.0
+Microsoft.UI.Xaml.2.7                             Microsoft.UI.Xaml.2.7                              7.2409.9001.0
+Microsoft.UI.Xaml.2.8                             Microsoft.UI.Xaml.2.8                              8.2501.31001.0
+Microsoft.UI.Xaml.2.8                             Microsoft.UI.Xaml.2.8                              8.2501.31001.0
+Microsoft Visual C++ 2012 UWP Desktop Runtime PaÔÇª MSIX\Microsoft.VCLibs.110.00.UWPDesktop_11.0.6113ÔÇª 11.0.61135.0
+Microsoft Visual C++ 2012 UWP Desktop Runtime PaÔÇª MSIX\Microsoft.VCLibs.110.00.UWPDesktop_11.0.6113ÔÇª 11.0.61135.0
+Microsoft Visual C++ 2013 UWP Desktop Runtime PaÔÇª MSIX\Microsoft.VCLibs.120.00.UWPDesktop_12.0.4065ÔÇª 12.0.40653.0
+Microsoft Visual C++ 2013 UWP Desktop Runtime PaÔÇª MSIX\Microsoft.VCLibs.120.00.UWPDesktop_12.0.4065ÔÇª 12.0.40653.0
+Microsoft Visual C++ 2015 UWP Desktop Runtime PaÔÇª Microsoft.VCLibs.Desktop.14                        14.0.33728.0
+Microsoft Visual C++ 2015 UWP Desktop Runtime PaÔÇª Microsoft.VCLibs.Desktop.14                        14.0.33728.0
+Microsoft Visual C++ 2015 UWP Runtime Package     Microsoft.VCLibs.14                                14.0.33519.0
+Microsoft Visual C++ 2015 UWP Runtime Package     Microsoft.VCLibs.14                                14.0.33519.0
+Extensiones de v├¡deo VP9                          MSIX\Microsoft.VP9VideoExtensions_1.2.12.0_x64__8ÔÇª 1.2.12.0
+Microsoft Pay                                     MSIX\Microsoft.Wallet_2.4.18324.0_x64__8wekyb3d8bÔÇª 2.4.18324.0
+Extensiones de contenido multimedia web           MSIX\Microsoft.WebMediaExtensions_1.2.17.0_x64__8ÔÇª 1.2.17.0
+Extensi├│n de imagen WebP                          MSIX\Microsoft.WebpImageExtension_1.2.14.0_x64__8ÔÇª 1.2.14.0
+Windows App Runtime DDLM 8000.806.2252.0-x6       MSIX\Microsoft.WinAppRuntime.DDLM.8000.806.2252.0ÔÇª 8000.806.2252.0
+Windows App Runtime DDLM 8000.806.2252.0-x8       MSIX\Microsoft.WinAppRuntime.DDLM.8000.806.2252.0ÔÇª 8000.806.2252.0
+Windows Advanced Settings                         MSIX\Microsoft.Windows.DevHome_0.2100.858.0_x64__ÔÇª 0.2100.858.0
+Fotos de Microsoft                                MSIX\Microsoft.Windows.Photos_2026.11020.20001.0_ÔÇª 2026.11020.20001.0
+Reloj de Windows                                  MSIX\Microsoft.WindowsAlarms_11.2512.0.0_x64__8weÔÇª 11.2512.0.0
+WindowsAppRuntime.1.2                             Microsoft.WindowsAppRuntime.1.2                    > 1.2.2
+WindowsAppRuntime.1.2                             Microsoft.WindowsAppRuntime.1.2                    > 1.2.2
+WindowsAppRuntime.1.4                             Microsoft.WindowsAppRuntime.1.4                    > 1.4.5
+WindowsAppRuntime.1.4                             Microsoft.WindowsAppRuntime.1.4                    > 1.4.5
+WindowsAppRuntime.1.5                             Microsoft.WindowsAppRuntime.1.5                    > 1.5.8
+WindowsAppRuntime.1.5                             Microsoft.WindowsAppRuntime.1.5                    > 1.5.8
+WindowsAppRuntime.1.6                             Microsoft.WindowsAppRuntime.1.6                    1.6.9
+WindowsAppRuntime.1.6                             Microsoft.WindowsAppRuntime.1.6                    1.6.9
+WindowsAppRuntime.1.7                             Microsoft.WindowsAppRuntime.1.7                    1.7.9
+WindowsAppRuntime.1.7                             Microsoft.WindowsAppRuntime.1.7                    1.7.9
+WindowsAppRuntime.1.7                             Microsoft.WindowsAppRuntime.1.7                    1.7.8
+WindowsAppRuntime.1.7                             Microsoft.WindowsAppRuntime.1.7                    1.7.7
+WindowsAppRuntime.1.7                             Microsoft.WindowsAppRuntime.1.7                    1.7.6
+WindowsAppRuntime.1.7                             Microsoft.WindowsAppRuntime.1.7                    1.7.5
+WindowsAppRuntime.1.7                             Microsoft.WindowsAppRuntime.1.7                    1.7.4
+WindowsAppRuntime.1.8                             Microsoft.WindowsAppRuntime.1.8                    1.8.6
+WindowsAppRuntime.1.8                             Microsoft.WindowsAppRuntime.1.8                    1.8.6
+WindowsAppRuntime.1.8                             Microsoft.WindowsAppRuntime.1.8                    1.8.5
+WindowsAppRuntime.1.8                             Microsoft.WindowsAppRuntime.1.8                    1.8.4
+WindowsAppRuntime.1.8                             Microsoft.WindowsAppRuntime.1.8                    1.8.3
+Calculadora de Windows                            MSIX\Microsoft.WindowsCalculator_11.2508.4.0_x64_ÔÇª 11.2508.4.0
+C├ímara de Windows                                 MSIX\Microsoft.WindowsCamera_2025.2510.2.0_x64__8ÔÇª 2025.2510.2.0
+Centro de opiniones                               MSIX\Microsoft.WindowsFeedbackHub_1.2602.13304.0_ÔÇª 1.2602.13304.0
+Mapas de Windows                                  MSIX\Microsoft.WindowsMaps_11.2506.3.0_x64__8wekyÔÇª 11.2506.3.0
+Grabadora de voz de Windows                       MSIX\Microsoft.WindowsSoundRecorder_10.2103.28.0_ÔÇª 10.2103.28.0
+Microsoft Store                                   MSIX\Microsoft.WindowsStore_22603.1401.6.0_x64__8ÔÇª 22603.1401.6.0
+Terminal Windows                                  Microsoft.WindowsTerminal                          1.24.10921.0
+Windows Package Manager Source (winget) V2        MSIX\Microsoft.Winget.Source_2026.412.705.34_neutÔÇª 2026.412.705.34
+Xbox TCUI                                         MSIX\Microsoft.Xbox.TCUI_1.24.10001.0_x64__8wekybÔÇª 1.24.10001.0
+Compa├▒ero de la consola Xbox                      MSIX\Microsoft.XboxApp_48.104.4001.0_x64__8wekyb3ÔÇª 48.104.4001.0
+Xbox Game Bar Plugin                              MSIX\Microsoft.XboxGameOverlay_1.54.4001.0_x64__8ÔÇª 1.54.4001.0
+Game Bar                                          MSIX\Microsoft.XboxGamingOverlay_7.326.4020.0_x64ÔÇª 7.326.4020.0
+Xbox Identity Provider                            MSIX\Microsoft.XboxIdentityProvider_12.130.16001.ÔÇª 12.130.16001.0
+Xbox Game Speech Window                           MSIX\Microsoft.XboxSpeechToTextOverlay_1.21.13002ÔÇª 1.21.13002.0
+Enlace M├│vil                                      MSIX\Microsoft.YourPhone_1.25072.79.0_x64__8wekybÔÇª 1.25072.79.0
+Reproductor multimedia de Windows                 MSIX\Microsoft.ZuneMusic_11.2601.11.0_x64__8wekybÔÇª 11.2601.11.0
+Pel├¡culas y TV                                    MSIX\Microsoft.ZuneVideo_10.25121.10051.0_x64__8wÔÇª 10.25121.10051.0
+Cosmos Dreams                                     MSIX\MicrosoftCorporationII.CosmosDreams_1.0.3.0_ÔÇª 1.0.3.0
+WinAppRuntime.Main.1.5                            MSIX\MicrosoftCorporationII.WinAppRuntime.Main.1.ÔÇª 5001.373.1736.0
+WinAppRuntime.Main.1.8                            MSIX\MicrosoftCorporationII.WinAppRuntime.Main.1.ÔÇª 8000.806.2252.0
+WinAppRuntime.Singleton                           MSIX\MicrosoftCorporationII.WinAppRuntime.SingletÔÇª 8000.806.2252.0
+Windows Web Experience Pack                       MSIX\MicrosoftWindows.Client.WebExperience_1.0.0.ÔÇª 1.0.0.0
+Host de experiencia entre dispositivos            MSIX\MicrosoftWindows.CrossDevice_0.25072.59.0_x6ÔÇª 0.25072.59.0
+NVIDIA Control Panel                              MSIX\NVIDIACorp.NVIDIAControlPanel_8.1.969.0_x64_ÔÇª 8.1.969.0
+Python Install Manager                            Python.PythonInstallManager                        26.1.240.0
+SteamPal for Command Palette                      StontyTech.SteamPalforCommandPalette               0.0.2.0
+Correo y Calendario                               MSIX\microsoft.windowscommunicationsapps_16005.14ÔÇª 16005.14326.22342ÔÇª
+Oh My Posh                                        JanDeDobbeleer.OhMyPosh                            29.9.2.0

@@ -1,0 +1,19 @@
+[core]
+	editor = \"C:\\Users\\julio\\AppData\\Local\\Programs\\Microsoft VS Code\\bin\\code\" --wait
+[user]
+	name = Jules Martins
+	email = julioglez.93@gmail.com
+	signingkey = 417CAB41FAB91318
+[commit]
+	gpgsign = true
+[tag]
+	gpgSign = false
+[safe]
+	directory = %(prefix)///wsl.localhost/archlinux/home/julio/openDucer
+[filter "lfs"]
+	clean = git-lfs clean -- %f
+	smudge = git-lfs smudge -- %f
+	process = git-lfs filter-process
+	required = true
+[gpg]
+	program = C:\\Program Files (x86)\\GnuPG\\bin\\gpg.exe

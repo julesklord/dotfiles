@@ -1,0 +1,19 @@
+﻿
+Name     Version      Source                                                 Updated             Info
+----     -------      ------                                                 -------             ----
+7zip     26.00        main                                                   2026-04-01 05:22:36     
+bat      0.26.1       main                                                   2026-04-01 05:22:57     
+cacert   2026-03-19   main                                                   2026-04-01 05:22:40     
+curl     8.19.0_5     main                                                   2026-04-01 05:22:40     
+fd       10.4.2       main                                                   2026-04-01 05:22:58     
+fzf      0.70.0       main                                                   2026-04-01 05:22:55     
+gpg      2.5.18       main                                                   2026-04-01 05:22:53     
+grep     3.11         main                                                   2026-04-01 05:22:54     
+opencode 1.3.13       C:\Users\julio\scoop\buckets\main\bucket\opencode.json 2026-04-01 05:47:27     
+sudo     0.2020.01.26 main                                                   2026-04-01 05:22:44     
+tldr     0.6.1        main                                                   2026-04-01 05:23:00     
+touch    0.2018.07.25 main                                                   2026-04-01 05:22:45     
+wget     1.21.4       main                                                   2026-04-01 05:22:44     
+which    2.20         main                                                   2026-04-01 05:22:46     
+
+
