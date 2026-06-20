@@ -1,0 +1,99 @@
+# ── Secrets & tokens ─────────────────────────────────────────────────────────
+# Never commit API keys, auth tokens, or credentials
+.config/github-copilot/
+.config/gh/hosts.yml
+.config/rclone/rclone.conf
+.config/pulse/cookie
+.pulse-cookie
+**/auth.json
+**/auth.db
+**/*token*
+**/*secret*
+**/*credentials*
+**/*password*
+
+# ── Browser profiles (huge & personal) ───────────────────────────────────────
+.config/chromium/
+.config/chromium-*/
+.config/mozilla/
+.config/Google/
+.config/zen/
+.config/yandex-browser/
+.config/browsh/
+
+# ── Heavy app data (not config, just runtime state) ──────────────────────────
+.config/Claude/
+.config/Antigravity/
+.config/Antigravity IDE/
+.config/opencode/
+.config/obsidian/
+.config/obsidian.bak/
+.config/DankMaterialShell/
+.config/equibop/
+.config/winboat/
+.config/LM\ Studio/
+.config/LM-Studio/
+.config/Code\ -\ OSS/
+
+# ── KDE session & generated state ────────────────────────────────────────────
+.config/akonadi/
+.config/session/
+.config/dconf/
+.config/libaccounts-glib/
+.config/kactivity*/
+.config/plasma-org.kde.plasma.desktop-appletsrc
+.config/plasmashellrc
+.config/kwin*/
+.config/kded*/
+.config/ksmserverrc
+.config/ksplashrc
+
+# ── Backup files ──────────────────────────────────────────────────────────────
+*.bak
+*.bak.*
+*.backup
+*.backup.*
+*.back
+*_bak
+*.orig
+*.old
+
+# ── Editor noise ──────────────────────────────────────────────────────────────
+.config/micro/backups/
+.config/micro/buffers/
+.config/micro/syntax/
+.viminfo
+.vim/.netrwhist
+.vim/undo/
+
+# ── OS & shell noise ──────────────────────────────────────────────────────────
+.python_history
+.bash_history
+.zsh_history
+.lesshst
+.wget-hsts
+.cache/
+.local/share/recently-used.xbel
+.local/share/Trash/
+**/__pycache__/
+**/*.pyc
+
+# ── fish runtime state (keep config, ignore variables w/ paths) ───────────────
+# fish_variables can contain machine-specific paths — uncomment if needed:
+# .config/fish/fish_variables
+
+# ── cava shaders (large generated files) ─────────────────────────────────────
+.config/cava/shaders/
+
+# ── zellij old backups ────────────────────────────────────────────────────────
+.config/zellij/config.kdl.bak
+.config/zellij/config.kdl.bak.*
+.config/fontconfig/fonts.conf.back
+.config/fontconfig/fonts.conf.bak
+
+# ── Misc runtime ─────────────────────────────────────────────────────────────
+.steampath
+.steampid
+.lmstudio-home-pointer
+*.lock
+*.log

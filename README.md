@@ -1,62 +1,125 @@
-# 🐧 the .dotfiles
+# 🐧 dotfiles
 
 > "A developer's environment is their throne. This is mine."
 
-Bienvenido a la cueva del nerdo. Este es un respaldo vivo de mis configuraciones, forjado tras años de distrohopping en Linux y optimizado para la máxima productividad en Windows 11. 
-
-Toma lo que gustes, aca todo es libre.
+My living configuration backup — forged through years of Linux distrohopping and continuously optimized across multiple machines and shells.
 
 ---
 
-## 🚀 El Stack Actual (Windows / Rust Dev)
+## 🖥️ Stack Actual (CachyOS / Rust Dev / Wayland)
 
-Tras mucho tiempo en Manjaro, actualmente mi entorno principal corre sobre **Windows + PowerShell 7.6**, enfocado en el desarrollo de herramientas TUI en Rust (como [poshbuddy](https://github.com/julesklord/poshbuddy)).
+Primary environment running on **CachyOS** (Arch-based), focused on Rust TUI development and a fully Wayland setup.
 
-### 🖥️ Core Components
-*   **Shell**: PowerShell 7.6 (con `gsync` aliases y funciones personalizadas)
-*   **Prompt**: [Oh My Posh](https://ohmyposh.dev/) (Tema: `atomic`)
-*   **Terminal**: Windows Terminal (CaskaydiaCove NF)
-*   **Editor**: VS Code / Neovim / Vim
-*   **Navegación**: [Zoxide](https://github.com/ajeetdsouza/zoxide) + [Yazi](https://github.com/sxyazi/yazi)
-*   **Gestión de Paquetes**: Scoop & Winget
+### Core Components
 
-### 📂 Estructura del Repositorio
-*   `/powershell`: Perfiles optimizados para PS 5.1 y 7.6.
-*   `/windows`: Configuraciones de VS Code, Windows Terminal y listas de software.
-*   `/.poshthemes`: Colección completa de temas para Oh My Posh.
-*   `/.gitconfig`: Mis alias globales y configuración de identidad.
-*   `/.vim`: Configuración de Vim (Vundle, AirLine, Fugitive).
-*   `/.config`: Configuraciones de Linux (Zellij, Btop, Fontconfig).
-*   `/scripts`: Automatizaciones en Bash y Python.
+| Layer | Tool |
+|---|---|
+| **Shell** | Zsh (CachyOS config) + Fish |
+| **Prompt** | [Oh My Posh](https://ohmyposh.dev/) — tema `thecyberden` |
+| **Compositor** | Niri (Wayland) + Hyprland fallback |
+| **Terminal** | Kitty · Ghostty · Foot · Alacritty |
+| **Multiplexer** | Zellij · Tmux |
+| **Editor** | Zed · Helix · Micro · Vim |
+| **File nav** | Yazi + Zoxide |
+| **Monitor** | btop (gruvbox dark) |
+| **Visualizer** | cava |
+| **Display mgr** | kanshi (Wayland output config) |
 
 ---
 
-## 📸 La Manteca (Screenshots)
+## 📂 Estructura del Repositorio
 
-Aquí es donde se ve el trabajo duro. La estética no es negociable.
-
-![Descripción Screenshot 1](scrots/scrot1.png)
-![Descripción Screenshot 2](scrots/scrot2.png)
-![Descripción Screenshot 3](scrots/scrot3.png)
+```
+dotfiles/
+├── .zshrc                    # Zsh config (CachyOS + oh-my-posh)
+├── .bashrc / .bash_profile   # Bash fallback
+├── .gitconfig                # Global git config & aliases
+├── .tmux.conf                # Tmux keybinds & theme
+├── .Xresources               # X11 resources
+├── .gtkrc-2.0                # GTK2 theme
+│
+├── .config/
+│   ├── alacritty/            # Alacritty terminal + dank theme
+│   ├── btop/                 # btop (v1.4.7, gruvbox_dark)
+│   ├── cava/themes/          # cava audio visualizer themes
+│   ├── environment.d/        # Wayland env vars (DMS, electron flags)
+│   ├── fish/                 # Fish shell config + completions
+│   ├── fontconfig/           # Font rendering config
+│   ├── foot/                 # Foot terminal color scheme
+│   ├── ghostty/themes/       # Ghostty terminal themes
+│   ├── helix/                # Helix editor config + languages
+│   ├── htop/                 # htop layout
+│   ├── hypr/dms/             # Hyprland color palette
+│   ├── kanshi/               # Display layout profiles
+│   ├── kitty/                # Kitty terminal config + dank theme
+│   ├── micro/                # Micro editor settings + keybindings
+│   ├── niri/                 # Niri Wayland compositor config
+│   ├── zed/                  # Zed editor settings + custom theme
+│   ├── zellij/               # Zellij multiplexer config
+│   └── weechat/              # Weechat IRC client
+│
+├── .poshthemes/              # Full Oh My Posh theme collection
+├── .vim/                     # Vim config (Vundle, Airline, Fugitive)
+│
+├── powershell/               # PowerShell profiles (5.1 & 7.6)
+├── windows/                  # Windows Terminal, VSCode, Scoop/Winget lists
+├── scripts/                  # Bash/Python automation scripts
+├── colorschemes/             # Standalone color schemes
+├── scratch/                  # Old/experimental configs (legacy)
+└── oldies/                   # AwesomeWM, i3, HerbstluftWM configs
+```
 
 ---
 
-## 🛠️ Cómo Usar Mis Configs
+## 🚀 Instalación
 
-### En Windows:
-He generado listas de software para que puedas replicar mi entorno en segundos:
-1.  Instala Scoop: `irm get.scoop.sh | iex`
-2.  Importa mis apps: `cat windows/scoop_list.txt | scoop install`
-3.  Enlaza el perfil: `New-Item -ItemType SymbolicLink -Path $PROFILE -Target (Resolve-Path powershell/Microsoft.PowerShell_profile.ps1)`
+### Linux — via GNU Stow
 
-### En Linux:
-Recomiendo usar [GNU Stow](https://www.gnu.org/software/stow/) para gestionar los enlaces simbólicos en tu `$HOME`.
+[GNU Stow](https://www.gnu.org/software/stow/) crea symlinks automáticamente desde el repo a `$HOME`:
+
+```bash
+git clone https://github.com/julesklord/dotfiles.git ~/dotfiles
+cd ~/dotfiles
+
+# Instalar todo de una vez
+stow --target=$HOME .
+
+# O instalar configs individuales
+stow --target=$HOME/.config .config/zed
+stow --target=$HOME/.config .config/kitty
+```
+
+### Windows — via PowerShell
+
+```powershell
+# 1. Instala Scoop
+irm get.scoop.sh | iex
+
+# 2. Importa apps
+cat windows/scoop_list.txt | scoop install
+
+# 3. Enlaza el perfil de PowerShell
+New-Item -ItemType SymbolicLink -Path $PROFILE `
+  -Target (Resolve-Path powershell/Microsoft.PowerShell_profile.ps1)
+```
 
 ---
 
-## 🕰️ El Legado (Oldies / Linux Ricing)
+## ⚠️ Secrets & Seguridad
 
-No olvido mis raíces. Aquí guardo configuraciones de WMs que marcaron época en mi flujo de trabajo:
+Este repo usa `.gitignore` para excluir automáticamente:
+- Tokens de auth (`auth.json`, `auth.db`, `hosts.yml`, rclone.conf)
+- Perfiles de browser (Chromium, Firefox, Zen)
+- Datos de apps pesadas (Claude, Antigravity, opencode, Obsidian)
+- Archivos de sesión y estado generado por KDE/Wayland
+
+**Si tu editor guarda tokens en su config** (p.ej. Zed MCP settings), usa variables de entorno o el gestor de secretos del sistema en lugar de hardcodear valores.
+
+---
+
+## 🕰️ Legacy — Linux Ricing
+
+Guardadas en `/oldies`. WMs que marcaron época:
 
 ### AwesomeWM
 ![screenshot](scrots/scrot1.png)
@@ -66,19 +129,19 @@ No olvido mis raíces. Aquí guardo configuraciones de WMs que marcaron época e
 
 ### i3-gaps
 ![Screenshot](https://i.imgur.com/ujhrXu4.png)
-![Screenshot](https://i.imgur.com/vr5vtff.png)
 
 ---
 
-## 🤝 Agradecimientos & Inspiración
+## 🤝 Créditos
 
-*   A la comunidad de **r/unixporn** por la inspiración constante.
-*   A **Linus Torvalds**, por darnos el núcleo de todo.
-*   A todos los devs de herramientas TUI que hacen que la terminal sea un lugar feliz.
+- La comunidad de **r/unixporn** por la inspiración constante
+- **Linus Torvalds** por el núcleo de todo
+- Los devs de Niri, Zellij, Helix, Kitty y todo el ecosistema moderno de herramientas TUI
 
 ## Licencia
 
-Estos dotfiles se comparten bajo la **Licencia MIT**. Siéntete libre de usarlos, modificarlos y distribuirlos.
+MIT — úsalos, modifícalos, compártelos.
 
 ---
-*Actualizado en abril de 2026 con ❤️ y muchas horas de terminal.*
+
+*Actualizado en junio de 2026 con ❤️ y muchas horas de terminal.*
