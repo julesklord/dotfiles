@@ -46,12 +46,21 @@ return {
   -- Treesitter for semantic syntax highlighting
   {
     "nvim-treesitter/nvim-treesitter",
+    branch = "main",
     build = ":TSUpdate",
     config = function()
-      require("nvim-treesitter.configs").setup({
-        ensure_installed = { "lua", "rust", "bash", "python", "json", "markdown", "html", "toml", "yaml" },
-        highlight = { enable = true },
-        indent = { enable = true },
+      local ts = require("nvim-treesitter")
+      local parsers = { "lua", "rust", "bash", "python", "json", "markdown", "html", "toml", "yaml" }
+
+      for _, parser in ipairs(parsers) do
+        ts.install(parser)
+      end
+
+      vim.api.nvim_create_autocmd("FileType", {
+        pattern = parsers,
+        callback = function()
+          vim.treesitter.start()
+        end,
       })
     end,
   },
@@ -114,11 +123,12 @@ return {
         ensure_installed = { "rust_analyzer", "lua_ls" },
       })
 
-      local lspconfig = require("lspconfig")
       local capabilities = require("cmp_nvim_lsp").default_capabilities()
 
-      lspconfig.rust_analyzer.setup({ capabilities = capabilities })
-      lspconfig.lua_ls.setup({
+      vim.lsp.config("rust_analyzer", { capabilities = capabilities })
+      vim.lsp.enable("rust_analyzer")
+
+      vim.lsp.config("lua_ls", {
         capabilities = capabilities,
         settings = {
           Lua = {
@@ -126,6 +136,7 @@ return {
           },
         },
       })
+      vim.lsp.enable("lua_ls")
 
       -- Keymaps for LSP actions
       vim.api.nvim_create_autocmd("LspAttach", {
