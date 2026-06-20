@@ -1,0 +1,11 @@
+[user]
+	email = fearlesslymediagroup@gmail.com
+	name = Jules Martins
+[credential "https://github.com"]
+	helper = 
+	helper = !/usr/bin/gh auth git-credential
+[credential "https://gist.github.com"]
+	helper = 
+	helper = !/usr/bin/gh auth git-credential
+[init]
+	defaultBranch = main
