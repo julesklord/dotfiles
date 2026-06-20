@@ -1,0 +1,5 @@
+[[language]]
+name = "markdown"
+auto-format = true
+soft-wrap.enable = true
+formatter = { command = "prettier", args = ["--parser", "markdown"] }

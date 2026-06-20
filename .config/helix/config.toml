@@ -1,0 +1,81 @@
+theme = "carbon"
+
+[editor]
+line-number = "relative"
+mouse = true
+cursorline = true
+bufferline = "always"
+true-color = true
+color-modes = true
+shell = ["fish", "-c"]
+idle-timeout = 50
+completion-trigger-len = 1
+auto-save = true
+scrolloff = 5
+
+# --- Apariencia Pro ---
+[editor.cursor-shape]
+insert = "bar"
+normal = "block"
+select = "underline"
+
+[editor.indent-guides]
+render = true
+character = "╎" # Carácter más sólido estilo nvim
+skip-levels = 1
+
+[editor.lsp]
+display-messages = true
+display-inlay-hints = true # Inlay hints como en nvim 0.10+
+
+[editor.soft-wrap]
+enable = true
+wrap-indicator = "↪ "
+
+[editor.file-picker]
+hidden = false
+
+[editor.statusline]
+left = ["mode", "spacer", "spinner", "spacer", "file-name", "read-only-indicator", "file-modification-indicator", "spacer", "version-control"]
+center = ["diagnostics"]
+right = ["register", "spacer", "position", "position-percentage", "spacer", "total-line-numbers", "spacer", "file-encoding", "spacer", "file-type"]
+separator = "│"
+mode.normal = "󰊠 NORMAL"
+mode.insert = "󰏫 INSERT"
+mode.select = "󰒃 SELECT"
+
+# --- Atajos "Estilo Nvim/Pro" ---
+[keys.normal]
+# Navegación entre paneles (como en tu kitty tuneado)
+"C-h" = "jump_view_left"
+"C-j" = "jump_view_down"
+"C-k" = "jump_view_up"
+"C-l" = "jump_view_right"
+
+# Comodidad extrema
+esc = ["collapse_selection", "keep_primary_selection"]
+"C-s" = ":w"
+"C-q" = ":q"
+"A-j" = ["extend_to_line_bounds", "delete_selection", "paste_after"]
+"A-k" = ["extend_to_line_bounds", "delete_selection", "move_line_up", "paste_before"]
+
+# Manejo de buffers (más intuitivo)
+"L" = ":bn" # Siguiente buffer con Shift + L
+"H" = ":bp" # Buffer anterior con Shift + H
+
+[keys.normal.space]
+f = "file_picker"
+b = "buffer_picker"
+w = ":w"
+q = ":q"
+e = ":e ~/.config/helix/config.toml"
+R = ":config-reload"
+S = [":w", ":config-reload"]
+
+[keys.insert]
+"C-s" = ["normal_mode", ":w"]
+"C-q" = ["normal_mode", ":q"]
+"C-v" = "paste_after"
+
+[keys.select]
+"C-s" = ["normal_mode", ":w"]

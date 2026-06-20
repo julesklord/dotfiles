@@ -1,0 +1,75 @@
+theme = "carbon"
+
+[editor]
+line-number = "relative"
+mouse = true
+cursorline = true
+bufferline = "always"
+true-color = true
+color-modes = true
+shell = ["zsh", "-c"]
+idle-timeout = 50
+completion-trigger-len = 1
+auto-save = true
+
+[editor.cursor-shape]
+insert = "bar"
+normal = "block"
+select = "underline"
+
+[editor.file-picker]
+hidden = false
+
+[editor.statusline]
+left = ["mode", "spacer", "spinner", "spacer", "file-name", "read-only-indicator", "file-modification-indicator", "spacer", "version-control"]
+center = ["diagnostics"]
+right = ["register", "spacer", "position", "position-percentage", "spacer", "total-line-numbers", "spacer", "file-encoding", "spacer", "file-type"]
+separator = "│"
+mode.normal = "󰊠 NORMAL"
+mode.insert = "󰏫 INSERT"
+mode.select = "󰒃 SELECT"
+
+[editor.lsp]
+display-messages = true
+display-inlay-hints = true
+
+[editor.soft-wrap]
+enable = true
+
+[editor.indent-guides]
+render = true
+character = "┊"
+skip-levels = 1
+
+[keys.normal]
+# Navegación rápida
+"C-h" = "jump_view_left"
+"C-j" = "jump_view_down"
+"C-k" = "jump_view_up"
+"C-l" = "jump_view_right"
+
+# Comodidad
+esc = ["collapse_selection", "keep_primary_selection"]
+"C-s" = ":w"
+"C-q" = ":q"
+"A-j" = ["extend_to_line_bounds", "delete_selection", "paste_after"] # Mover línea abajo
+"A-k" = ["extend_to_line_bounds", "delete_selection", "move_line_up", "paste_before"] # Mover línea arriba
+
+[keys.normal.space]
+f = "file_picker"
+b = "buffer_picker"
+w = ":w"
+q = ":q"
+e = ":e ~/.config/helix/config.toml" # Editar config rápido
+R = ":config-reload" # Recargar config manualmente
+S = [":w", ":config-reload"] # Guardar y aplicar cambios de un tirón
+
+[keys.insert]
+"C-s" = ["normal_mode", ":w"]
+"C-q" = ["normal_mode", ":q"]
+"C-v" = "paste_after"
+
+[keys.select]
+# Facilitar selección
+"C-s" = ["normal_mode", ":w"]
+
